@@ -12,6 +12,4 @@ Welcome to GIT HUB DOICUMENTATION's documentation!
 
 
 
-Indices and tables
-==================
-
+sample.md
