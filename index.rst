@@ -8,13 +8,10 @@ Welcome to GIT HUB DOICUMENTATION's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption:numbers
 
 
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
